@@ -10,6 +10,7 @@
    :maxdepth: 1
    :caption: Contents:
 
+   screen_list.rst
    screen_transition_diagram
    header
    footer
