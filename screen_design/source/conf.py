@@ -61,3 +61,5 @@ html_theme = 'default'
 html_static_path = ['_static']
 
 html_style = "custom.css"
+
+latex_docclass = {'mydocument': 'jsbook'}
