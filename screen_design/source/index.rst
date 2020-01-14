@@ -10,7 +10,8 @@
    :maxdepth: 1
    :caption: Contents:
 
-   screen_list.rst
+   display_resolution
+   screen_list
    screen_transition_diagram
    header
    footer
