@@ -36,6 +36,8 @@ Welcome to 深澤ソフトウェア開発 開発Doc's's documentation!
 
    manual
 
+   mente_manual
+
    frontend_backend
 
 
